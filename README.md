@@ -1,1 +1,0 @@
-# estrator-de-palavra-chave
